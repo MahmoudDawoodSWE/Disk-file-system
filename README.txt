@@ -1,6 +1,6 @@
 
 Disk File System
-Authored by :Mahmoud dawod
+Authored by :Mahmoud Dawood
 322943408
 
 =====================================Description===================================== 
