@@ -22,8 +22,8 @@ The simulation includes several classes and functions that facilitate file opera
 
 To compile and run the simulation, follow these steps:
 
-1. Compile the code using the provided command: `g++ ex7.cpp -o ex7`.
-2. Run the compiled program: `./ex7`.
+1. Compile the code using the provided command: `g++ Disk-file-system.cpp -o Disk-file-system`.
+2. Run the compiled program: `./Disk-file-system`.
 
 When running the program, you can choose an option from 0 to 8, where each number represents a specific function in the simulation. The program will display the results or failure reasons for each executed function.
 
